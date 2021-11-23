@@ -1,0 +1,13 @@
+C:\Users\100089\Downloads\festivalTycoon - BandCheck\festivalTycoon - BandCheck\bin\Debug\netcoreapp3.1\festivalTycoon - BandCheck.exe
+C:\Users\100089\Downloads\festivalTycoon - BandCheck\festivalTycoon - BandCheck\bin\Debug\netcoreapp3.1\festivalTycoon - BandCheck.deps.json
+C:\Users\100089\Downloads\festivalTycoon - BandCheck\festivalTycoon - BandCheck\bin\Debug\netcoreapp3.1\festivalTycoon - BandCheck.runtimeconfig.json
+C:\Users\100089\Downloads\festivalTycoon - BandCheck\festivalTycoon - BandCheck\bin\Debug\netcoreapp3.1\festivalTycoon - BandCheck.runtimeconfig.dev.json
+C:\Users\100089\Downloads\festivalTycoon - BandCheck\festivalTycoon - BandCheck\bin\Debug\netcoreapp3.1\festivalTycoon - BandCheck.dll
+C:\Users\100089\Downloads\festivalTycoon - BandCheck\festivalTycoon - BandCheck\bin\Debug\netcoreapp3.1\festivalTycoon - BandCheck.pdb
+C:\Users\100089\Downloads\festivalTycoon - BandCheck\festivalTycoon - BandCheck\obj\Debug\netcoreapp3.1\festivalTycoon - BandCheck.csprojAssemblyReference.cache
+C:\Users\100089\Downloads\festivalTycoon - BandCheck\festivalTycoon - BandCheck\obj\Debug\netcoreapp3.1\festivalTycoon - BandCheck.AssemblyInfoInputs.cache
+C:\Users\100089\Downloads\festivalTycoon - BandCheck\festivalTycoon - BandCheck\obj\Debug\netcoreapp3.1\festivalTycoon - BandCheck.AssemblyInfo.cs
+C:\Users\100089\Downloads\festivalTycoon - BandCheck\festivalTycoon - BandCheck\obj\Debug\netcoreapp3.1\festivalTycoon - BandCheck.csproj.CoreCompileInputs.cache
+C:\Users\100089\Downloads\festivalTycoon - BandCheck\festivalTycoon - BandCheck\obj\Debug\netcoreapp3.1\festivalTycoon - BandCheck.dll
+C:\Users\100089\Downloads\festivalTycoon - BandCheck\festivalTycoon - BandCheck\obj\Debug\netcoreapp3.1\festivalTycoon - BandCheck.pdb
+C:\Users\100089\Downloads\festivalTycoon - BandCheck\festivalTycoon - BandCheck\obj\Debug\netcoreapp3.1\festivalTycoon - BandCheck.genruntimeconfig.cache
